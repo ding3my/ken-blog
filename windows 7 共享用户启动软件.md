@@ -1,0 +1,9 @@
+#o
+参考#a
+#i
+none
+#a
+将startup的C:\users\user1改为C:\users\user2
+将user1的startup复制到user2的startup即可
+测试启动ahk成功
+#sum
